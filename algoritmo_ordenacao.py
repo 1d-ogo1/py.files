@@ -3,7 +3,7 @@ from typing import *
 # Parametro: Conjunto(lista de inteiros), Ordenação(1:Ordenada; 0:Não ordenada), Sentido(1:Crescente; -1:Decrescente)
 
 
-class ALGORITMOS_BINARIOS:
+class PESQUISA_ORD_LISTA:
 
     def __init__(self, conjunto: list, ordenacao: int, sentido: int):
         self.conjunto = conjunto
